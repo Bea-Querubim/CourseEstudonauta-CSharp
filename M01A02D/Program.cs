@@ -6,9 +6,9 @@ namespace M01A02D
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("------------------------------");
+            Console.WriteLine("--------------------------");
             Console.WriteLine("-------M 01 A02 D --------");
-            Console.WriteLine("------------------------------");
+            Console.WriteLine("--------------------------");
             Console.WriteLine("C# é \n \"SUPER\" \n facil! \a");
         }
     }

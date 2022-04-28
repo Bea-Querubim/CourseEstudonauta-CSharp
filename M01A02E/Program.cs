@@ -12,7 +12,7 @@ namespace M01A02E
             Console.BackgroundColor = ConsoleColor.DarkCyan; //comando para alterar o fundo
 
             Console.WriteLine("Olá querida EStudonauta!");
-            Console.ResetColor(); //comando para resetar a cor   -- se nao resetar a tela toda continua com a cor
+            Console.ResetColor(); //comando para resetar a cor  --- se nao resetar a tela toda continua com a cor
 
             Console.ReadKey(); //faz a "pausa dramatica"
             Console.Clear(); //Limpa a tela
@@ -22,7 +22,7 @@ namespace M01A02E
             Console.SetCursorPosition(10, 5);  // Mudar a posição do Console:
 
             Console.WriteLine("Tudo bem com você??");
-            Console.ResetColor(); //comando para resetar a cor   -- se nao resetar a tela toda continua com a cor
+            Console.ResetColor(); //comando para resetar a cor  --- se nao resetar a tela toda continua com a cor
 
         }
     }

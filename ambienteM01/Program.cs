@@ -6,9 +6,9 @@ namespace ambienteM01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("------------------------------");
+            Console.WriteLine("--------------------------");
             Console.WriteLine("-------M 01 A02 A --------");
-            Console.WriteLine("------------------------------");
+            Console.WriteLine("--------------------------");
             Console.WriteLine("Executando Teste 01");
         }
     }
