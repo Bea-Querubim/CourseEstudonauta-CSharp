@@ -1,0 +1,13 @@
+C:\Users\beatr\source\repos\estudonauta-CSharp\ambienteM01\bin\Debug\netcoreapp3.1\M01A02A.exe
+C:\Users\beatr\source\repos\estudonauta-CSharp\ambienteM01\bin\Debug\netcoreapp3.1\M01A02A.deps.json
+C:\Users\beatr\source\repos\estudonauta-CSharp\ambienteM01\bin\Debug\netcoreapp3.1\M01A02A.runtimeconfig.json
+C:\Users\beatr\source\repos\estudonauta-CSharp\ambienteM01\bin\Debug\netcoreapp3.1\M01A02A.runtimeconfig.dev.json
+C:\Users\beatr\source\repos\estudonauta-CSharp\ambienteM01\bin\Debug\netcoreapp3.1\M01A02A.dll
+C:\Users\beatr\source\repos\estudonauta-CSharp\ambienteM01\bin\Debug\netcoreapp3.1\M01A02A.pdb
+C:\Users\beatr\source\repos\estudonauta-CSharp\ambienteM01\obj\Debug\netcoreapp3.1\M01A02A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\source\repos\estudonauta-CSharp\ambienteM01\obj\Debug\netcoreapp3.1\M01A02A.AssemblyInfoInputs.cache
+C:\Users\beatr\source\repos\estudonauta-CSharp\ambienteM01\obj\Debug\netcoreapp3.1\M01A02A.AssemblyInfo.cs
+C:\Users\beatr\source\repos\estudonauta-CSharp\ambienteM01\obj\Debug\netcoreapp3.1\M01A02A.csproj.CoreCompileInputs.cache
+C:\Users\beatr\source\repos\estudonauta-CSharp\ambienteM01\obj\Debug\netcoreapp3.1\M01A02A.dll
+C:\Users\beatr\source\repos\estudonauta-CSharp\ambienteM01\obj\Debug\netcoreapp3.1\M01A02A.pdb
+C:\Users\beatr\source\repos\estudonauta-CSharp\ambienteM01\obj\Debug\netcoreapp3.1\M01A02A.genruntimeconfig.cache

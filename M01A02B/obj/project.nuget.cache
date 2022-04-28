@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qIxplgncrroSD4GAIX3ic53nLXm2Zmocw9SFQMaSZkuawhYez+Fk7Hjz1hT7f3ucJ4zLfAqMfj04QRy7/G3VPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\beatr\\source\\repos\\estudonauta-CSharp\\M01A02B\\M01A02B.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beatr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

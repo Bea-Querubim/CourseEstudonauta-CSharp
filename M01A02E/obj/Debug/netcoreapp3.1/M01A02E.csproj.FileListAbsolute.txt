@@ -1,0 +1,13 @@
+C:\Users\beatr\source\repos\estudonauta-CSharp\M01A02E\bin\Debug\netcoreapp3.1\M01A02E.exe
+C:\Users\beatr\source\repos\estudonauta-CSharp\M01A02E\bin\Debug\netcoreapp3.1\M01A02E.deps.json
+C:\Users\beatr\source\repos\estudonauta-CSharp\M01A02E\bin\Debug\netcoreapp3.1\M01A02E.runtimeconfig.json
+C:\Users\beatr\source\repos\estudonauta-CSharp\M01A02E\bin\Debug\netcoreapp3.1\M01A02E.runtimeconfig.dev.json
+C:\Users\beatr\source\repos\estudonauta-CSharp\M01A02E\bin\Debug\netcoreapp3.1\M01A02E.dll
+C:\Users\beatr\source\repos\estudonauta-CSharp\M01A02E\bin\Debug\netcoreapp3.1\M01A02E.pdb
+C:\Users\beatr\source\repos\estudonauta-CSharp\M01A02E\obj\Debug\netcoreapp3.1\M01A02E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\source\repos\estudonauta-CSharp\M01A02E\obj\Debug\netcoreapp3.1\M01A02E.AssemblyInfoInputs.cache
+C:\Users\beatr\source\repos\estudonauta-CSharp\M01A02E\obj\Debug\netcoreapp3.1\M01A02E.AssemblyInfo.cs
+C:\Users\beatr\source\repos\estudonauta-CSharp\M01A02E\obj\Debug\netcoreapp3.1\M01A02E.csproj.CoreCompileInputs.cache
+C:\Users\beatr\source\repos\estudonauta-CSharp\M01A02E\obj\Debug\netcoreapp3.1\M01A02E.dll
+C:\Users\beatr\source\repos\estudonauta-CSharp\M01A02E\obj\Debug\netcoreapp3.1\M01A02E.pdb
+C:\Users\beatr\source\repos\estudonauta-CSharp\M01A02E\obj\Debug\netcoreapp3.1\M01A02E.genruntimeconfig.cache
